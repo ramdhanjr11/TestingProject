@@ -13,6 +13,7 @@ class SisyActivity : AppCompatActivity() {
         binding = ActivitySisyBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-//        sisytralala
+//        sisytralala wkkwk ko awal awal ada
+//        sisytralala wkkwk ko awal awal ada dua
     }
 }
