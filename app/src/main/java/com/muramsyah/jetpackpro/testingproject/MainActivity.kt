@@ -1,7 +1,7 @@
 package com.muramsyah.jetpackpro.testingproject
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.muramsyah.jetpackpro.testingproject.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
