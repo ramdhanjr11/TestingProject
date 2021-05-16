@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TestingProject">
-        <activity android:name=".BambangActivity"></activity>
+        <activity android:name=".SisyActivity"></activity>
+        <activity android:name=".BambangActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
