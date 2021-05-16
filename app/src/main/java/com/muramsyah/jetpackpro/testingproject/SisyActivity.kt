@@ -14,6 +14,6 @@ class SisyActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 //        sisytralala wkkwk ko awal awal ada
-//        sisytralala wkkwk ko awal awal ada dua
+//        hehe
     }
 }
