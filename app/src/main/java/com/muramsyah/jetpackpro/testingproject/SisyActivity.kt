@@ -6,12 +6,12 @@ import com.muramsyah.jetpackpro.testingproject.databinding.ActivitySisyBinding
 
 class SisyActivity : AppCompatActivity() {
 
-    private lateinit var sisyBinding: ActivitySisyBinding
+    private lateinit var binding: ActivitySisyBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        sisyBinding = ActivitySisyBinding.inflate(layoutInflater)
-        setContentView(sisyBinding.root)
+        binding = ActivitySisyBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
 //        sisytralala
     }
